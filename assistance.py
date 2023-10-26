@@ -1,15 +1,15 @@
-# import subprocess
-# import playsound
+import subprocess
+import playsound
 import pyttsx3
 import SpeechRecognition as sr
 import datetime
 import calendar
 import wikipedia
 import webbrowser
-# import os
+import os
 import pywhatkit
-# import ctypes
-# import winshell
+import ctypes
+import winshell
 import pyjokes
 import time
 import sys
